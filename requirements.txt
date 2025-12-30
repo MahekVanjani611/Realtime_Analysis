@@ -1,0 +1,14 @@
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.23
+plotly>=5.18
+
+# Kafka
+confluent-kafka>=2.3
+
+# Backend
+fastapi>=0.110
+uvicorn>=0.29
+
+# Optional but useful
+requests>=2.31
